@@ -29,12 +29,12 @@
 ---
 ### Status GitHub 🔍
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=sameladuart&count_private=true&show_icons=true&theme=rose" />
+<a href="https://github.com/samduartdev/github-readme-stats">
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=samduartdev&count_private=true&show_icons=true&theme=rose" />
 </a>
 
-<a href="https://github.com/sameladuart/github-readme-stats">
-  <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameladuart&count_private=true&&hide=Jupyter&layout=compact&theme=rose" />
+<a href="https://github.com/samduartdev/github-readme-stats">
+  <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samduartdev&count_private=true&&hide=Jupyter&layout=compact&theme=rose" />
 </a>
 
 ---
