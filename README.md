@@ -30,11 +30,11 @@
 ### Status GitHub 🔍
 
 <a href="https://github.com/samduartdev/github-readme-stats">
-  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=samduartdev&count_private=true&show_icons=true&theme=rose" />
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=samduartedev&count_private=true&show_icons=true&theme=rose" />
 </a>
 
 <a href="https://github.com/samduartdev/github-readme-stats">
-  <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samduartdev&count_private=true&&hide=Jupyter&layout=compact&theme=rose" />
+  <img height="160em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samduartedev&count_private=true&&hide=Jupyter&layout=compact&theme=rose" />
 </a>
 
 ---
