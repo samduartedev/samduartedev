@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=edade1&width=435&lines=BEM+VINDE+AO+MEU+PERFIL+🙂) 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=edade1&width=435&lines=BEM+VINDO(A)+AO+MEU+PERFIL+🙂) 
 
 <div> <img align="right" alt= "Sam-Gif" height = "180" width="200" src="https://drive.google.com/uc?id=1QLen0AwMnP2Wfv46uIEj6wuSShgAPqiy"></div>
 
