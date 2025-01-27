@@ -13,8 +13,12 @@
 ---
 ### Habilidades 📚
 <div style="display: inline_block"><br>
+  <img align="center" alt = "Java" height = "30" width="40" src= "https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000"/>
   <img align="center" alt="Sam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt = "Sam-AWS" height = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="center" alt = "Git" height = "30" width="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
+  <img align="center" alt = "GitHub" height = "35" width="40" src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000"/>
+  
  
 </div>
 
