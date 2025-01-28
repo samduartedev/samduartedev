@@ -4,8 +4,8 @@
 
 ### Sobre mim 👩🏻‍💻
 
-  - 🎓 Cursando primeiro período de Engenharia de Sotware
-  - 📚 Estudando lógica de programação e Javascript
+  - 🎓 Cursando primeiro período de Engenharia de Software
+  - 📚 Estudando lógica de programação e Java
   - 🛠️ participando do AWS re/start para a certificação AWS Cloud Practitioner
   - 🌍 Inglês B2 
   - Estou no início da área de desenvolvimento, mas tenho muita vontade de aprender 📖
